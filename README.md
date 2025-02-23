@@ -3,7 +3,7 @@
 <div align="center">
   <h3>🚀 AI/ML Enthusiast | Deep Learning & LLMs | Data-Driven Innovator from India 🇮🇳</h3>
   
-  [📧 Email](mailto:harshkanani@gmail.com) • 
+  [📧 Email](mailto:harshkanani80@gmail.com) • 
   [💼 LinkedIn](https://www.linkedin.com/in/harsh-kanani-925941250/)• 
   [📄 Resume](https://drive.google.com/file/d/1jt7JIUrJ9k3ap_aqg6dm1evRoKAjqJy-/view?usp=sharing)
 
