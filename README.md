@@ -7,7 +7,7 @@
   [💼 LinkedIn](https://www.linkedin.com/in/harsh-kanani-925941250/)• 
   [📄 Resume](https://drive.google.com/file/d/1jt7JIUrJ9k3ap_aqg6dm1evRoKAjqJy-/view?usp=sharing)
 
-  <img src="https://komarev.com/ghpvc/?username=iampossible007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HarshXAI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -93,12 +93,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iampossible007&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampossible007&theme=radical" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshXAI&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=radical" alt="GitHub Streak" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampossible007&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXAI&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
@@ -106,7 +106,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iampossible007&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshXAI&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
 
 ---
