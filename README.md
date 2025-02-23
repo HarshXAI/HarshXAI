@@ -1,7 +1,7 @@
 # 👨‍💻 Harsh Kanani
 
 <div align="center">
-  <h3>🚀 Passionate Backend Developer from India 🇮🇳</h3>
+  <h3>🚀 AI/ML Enthusiast | Deep Learning & LLMs | Data-Driven Innovator from India 🇮🇳</h3>
   
   [📧 Email](mailto:harshkanani@gmail.com) • 
   [💼 LinkedIn](https://www.linkedin.com/in/harsh-kanani-925941250/)• 
