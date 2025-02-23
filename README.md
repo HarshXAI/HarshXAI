@@ -80,13 +80,14 @@
 
 ---
 
-## 🚀 What I'm up to
 
-- 🔭 Currently working on **Samvaad**
-- 🌱 Learning **Microservices, Docker, Kubernetes, NestJS CLI**
-- 👯 Looking to collaborate on creating **Robust backend applications**
-- 💬 Ask me about **NestJS, MERN, GraphQL, AWS**
-- ⚡ Fun fact: **I kinda like to get stuck on errors :)**
+##🚀 What I’m up to
+	-	🔭 Currently working on AI-powered LLM and RAG systems
+	-	🌱 Learning Deep Learning, Model Optimization, MLOps, and Generative AI
+	-	🤖 Exploring LLMs, Computer Vision, and AI-driven analytics
+	-	👯 Looking to collaborate on cutting-edge AI/ML research and real-world applications
+	-	💬 Ask me about Transformers, LangChain, PyTorch, TensorFlow, and AI Deployment
+	-	⚡ Fun fact: I enjoy debugging neural networks more than traditional code!
 
 ---
 
