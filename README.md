@@ -5,7 +5,7 @@
   
   [📧 Email](mailto:harshkanani@gmail.com) • 
   [💼 LinkedIn](https://www.linkedin.com/in/harsh-kanani-925941250/)• 
-  [📄 Resume](https://drive.google.com/file/d/1-cUFbuXsCAub0viMIJJxBm3N1lCO-scx/view?usp=sharing)
+  [📄 Resume](https://drive.google.com/file/d/1jt7JIUrJ9k3ap_aqg6dm1evRoKAjqJy-/view?usp=sharing)
 
   <img src="https://komarev.com/ghpvc/?username=iampossible007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
