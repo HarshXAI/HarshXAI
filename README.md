@@ -100,7 +100,7 @@
 
 </div>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HarshXAI&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HarshXAI" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXAI&layout=compact&theme=radical" alt="Top Languages">
