@@ -95,7 +95,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshXAI&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=HarshXAI&theme=radical" alt="GitHub Streak" height="165">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HarshXAI" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
