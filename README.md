@@ -99,7 +99,11 @@
   
 
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshXAI&theme=radical)](https://github-readme-streak-stats.herokuapp.com?user=HarshXAI&theme=radical)
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXAI&layout=compact&theme=radical" alt="Top Languages">
 </div>
