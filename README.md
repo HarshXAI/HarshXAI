@@ -100,8 +100,8 @@
 
 </div>
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=radical" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshXAI&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 <div align="center">
