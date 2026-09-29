@@ -1,139 +1,163 @@
 # 👨‍💻 Harsh Kanani
 
 <div align="center">
-  <h3>🚀 AI/ML Enthusiast | Deep Learning & LLMs | Data-Driven Innovator from India 🇮🇳</h3>
-  
-  [📧 Email](mailto:harshkanani80@gmail.com) • 
-  [💼 LinkedIn](https://www.linkedin.com/in/harsh-kanani-925941250/)• 
-  [📄 Resume](https://drive.google.com/file/d/18aGhqdbv99t9QInAGCZuA46dkcvaHoQX/view?usp=sharing)
 
-  <img src="https://komarev.com/ghpvc/?username=HarshXAI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+### AI Engineer · AI Systems · Voice AI · LLMs · Backend
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding GIF" width="500">
+Building production AI systems with a focus on **real-time voice, LLM applications, retrieval, and reliable backend infrastructure.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kanani-925941250/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshkanani80@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18aGhqdbv99t9QInAGCZuA46dkcvaHoQX/view?usp=sharing)
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Work On
 
-<div align="center">
+I like building the systems around AI models that make them **reliable, observable, and useful in production**.
 
-  <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
-  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-  <!-- Frameworks & Libraries -->
-  <h3>Frameworks & Libraries</h3>
-  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-  <!-- Databases -->
-  <h3>Databases</h3>
-  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-  <!-- Cloud & DevOps -->
-  <h3>Cloud & DevOps</h3>
-  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-  <!-- Data Science & Machine Learning -->
-  <h3>Data Science & Machine Learning</h3>
-  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-8FB9A8?style=for-the-badge&logo=seaborn&logoColor=white)
-
-  <!-- Tools & Utilities -->
-  <h3>Tools & Utilities</h3>
-  
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
-
-</div>
-
+- 🎙️ **Real-time Voice AI** — STT, LLM, TTS, turn-taking & interruption handling
+- 🤖 **LLM Systems** — agents, context, retrieval, evaluation & structured execution
+- 🔎 **Retrieval & RAG** — hybrid search, reranking, provenance & grounded generation
+- ⚙️ **Backend Systems** — APIs, distributed workloads, data pipelines & infrastructure
+- 🧩 **Developer Infrastructure** — API contracts, ASTs, compilers & validation systems
 
 ---
 
+## 🚀 Experience
 
-##🚀 What I’m up to
-	-	🔭 Currently working on AI-powered LLM and RAG systems
-	-	🌱 Learning Deep Learning, Model Optimization, MLOps, and Generative AI
-	-	🤖 Exploring LLMs, Computer Vision, and AI-driven analytics
-	-	👯 Looking to collaborate on cutting-edge AI/ML research and real-world applications
-	-	💬 Ask me about Transformers, LangChain, PyTorch, TensorFlow, and AI Deployment
-	-	⚡ Fun fact: I enjoy debugging neural networks more than traditional code!
+### Adams AI · AI Engineer | Founding Team
 
----
+Building production AI infrastructure for real-time voice and omnichannel communication.
 
-## 📊 GitHub Stats
+- Architecting an omnichannel Voice AI platform with pluggable telephony and SIP transports
+- Designing context architecture that separates task policy, conversation state, user-response signals and model output
+- Engineering real-time turn-taking and interruption handling across VAD, STT, LLM and TTS
+- Building modular AI infrastructure with provider abstractions, local/hosted services and cost instrumentation
+- Working on production observability, reliability and end-to-end latency
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshXAI&show_icons=true" alt="GitHub Stats" height="165">
-  
-  
+### AVD Inovex · AI/ML Intern
 
-</div>
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HarshXAI" alt="GitHub Streak" /></a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshXAI&layout=compact" alt="Top Languages">
-</div>
-
+- Led backend and AI development for a multi-tenant NL2SQL platform capable of querying arbitrary ERP databases
+- Designed an ontology-inspired semantic layer for schema entities, relational roles and consistency constraints
+- Replaced embedding-only schema mapping with deterministic scoring, confidence gates and a semantic DSL
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔬 Selected Work
+
+### [VESPER](#) · Evidence-Grounded Financial Intelligence
+
+RAG system over SEC EDGAR filings designed around **grounded answers and retrieval provenance**.
+
+`RAG` `pgvector` `BM25` `Reranking` `NeMo Guardrails` `SSE`
+
+- Hybrid retrieval over 1,000+ document chunks
+- Citation-backed answers with retrieval provenance
+- Guardrails against adversarial and off-topic queries
+- Real-time response streaming
+
+### [Docsmyth](#) · API Contract Discovery & Validation
+
+Developer tooling that discovers API contracts directly from source code.
+
+`TypeScript` `AST` `GraphQL` `OpenAPI 3.1`
+
+- AST-based API contract discovery
+- GraphQL introspection
+- Framework-agnostic Contract IR
+- Compiler pipeline for OpenAPI generation
+- Automated validation, negative tests and breaking-change detection
+
+### [VeriNews](#) · Knowledge Graph-Based Fake News Detection
+
+Graph-based ML system for detecting misinformation using multiple signals.
+
+`PyTorch` `GATv2` `Knowledge Graphs` `NLP`
+
+- 23K articles
+- 100K+ graph edges
+- Temporal, content, source-credibility and echo-chamber signals
+- **94.80% F1** on FakeNewsNet
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Place** — Dev With AI Hackathon, 2024
+
+🥈 **1st Runner-Up** — Codestarts CodeBounty DSA Hackathon
+
+🎓 **B.Tech, Computer Science & Engineering (Data Science)**  
+Dwarkadas J. Sanghvi College of Engineering · 2026 · **8.32/10**
+
+---
+
+## 🛠️ Stack
+
+**Languages**
+
+`Python` `C++` `Java` `TypeScript` `JavaScript`
+
+**AI / ML**
+
+`PyTorch` `TensorFlow` `LLMs` `RAG` `NLP` `Knowledge Graphs` `GATv2` `Semantic Search`
+
+**AI Systems**
+
+`Voice AI` `STT / LLM / TTS` `Context Management` `Retrieval` `Evaluation` `Observability`
+
+**Backend & Infrastructure**
+
+`FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Redis` `pgvector`
+
+**Cloud & DevOps**
+
+`AWS` `Docker` `Airflow` `Terraform` `CI/CD`
+
+---
+
+## 🌱 Currently Exploring
+
+- Distributed systems & system design
+- AI infrastructure and scalable workloads
+- Agent reliability and evaluation
+- Event-driven architectures
+- Context engineering & memory
+- Real-time AI systems
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshXAI&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshXAI&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats">
+
+<img src="https://streak-stats.demolab.com?user=HarshXAI&theme=transparent&hide_border=true" height="165" alt="GitHub Streak">
+
 </div>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect
 
 <div align="center">
-  <a href="https://www.codechef.com/users/harshkanani80" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/@harshkanani80" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codeforces.com/profile/lostinloopsx" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.leetcode.com/harshkanani80" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kanani-925941250/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshXAI)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/harshkanani80/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshkanani80)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/lostinloopsx)
+
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+
+### Build systems that make AI useful.
+
 </div>
