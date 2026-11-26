@@ -84,6 +84,20 @@ Graph-based ML system for detecting misinformation using multiple signals.
 
 ---
 
+## 🌍 Open Source
+
+Merged contributions to production projects:
+
+- **[Hugging Face · speech-to-speech](https://github.com/huggingface/speech-to-speech/pull/777)**: fixed WebRTC dropping stashed audio on `output_audio_buffer.clear`
+- **[Kestra](https://github.com/kestra-io)** (workflow orchestration, Java), 5 merged PRs:
+  - [plugin-anthropic](https://github.com/kestra-io/plugin-anthropic/pull/146): `CountTokens` pre-flight token estimate
+  - [plugin-databricks](https://github.com/kestra-io/plugin-databricks/pull/286): Genie `AskQuestion` and `Continue` tasks
+  - [plugin-ollama](https://github.com/kestra-io/plugin-ollama/pull/98): per-task Docker volume mounting
+  - [plugin-scripts](https://github.com/kestra-io/plugin-scripts/pull/457): PHP `ScriptTrigger` and `CommandsTrigger`
+  - [plugin-debezium](https://github.com/kestra-io/plugin-debezium/pull/232): removed unused `serverId` from SQL Server triggers
+
+---
+
 ## 🏆 Achievements
 
 🥇 **1st Place** — Dev With AI Hackathon, 2024
