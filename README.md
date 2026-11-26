@@ -48,7 +48,7 @@ Building production AI infrastructure for real-time voice and omnichannel commun
 
 ## 🔬 Selected Work
 
-### [VESPER](#) · Evidence-Grounded Financial Intelligence
+### [VESPER](https://github.com/HarshXAI/vesper) · Evidence-Grounded Financial Intelligence
 
 RAG system over SEC EDGAR filings designed around **grounded answers and retrieval provenance**.
 
@@ -59,7 +59,7 @@ RAG system over SEC EDGAR filings designed around **grounded answers and retriev
 - Guardrails against adversarial and off-topic queries
 - Real-time response streaming
 
-### [Docsmyth](#) · API Contract Discovery & Validation
+### [Docsmyth](https://github.com/HarshXAI/docsmyth) · API Contract Discovery & Validation
 
 Developer tooling that discovers API contracts directly from source code.
 
@@ -71,7 +71,7 @@ Developer tooling that discovers API contracts directly from source code.
 - Compiler pipeline for OpenAPI generation
 - Automated validation, negative tests and breaking-change detection
 
-### [VeriNews](#) · Knowledge Graph-Based Fake News Detection
+### [VeriNews](https://github.com/HarshXAI/VeriNews) · Knowledge Graph-Based Fake News Detection
 
 Graph-based ML system for detecting misinformation using multiple signals.
 
@@ -127,18 +127,6 @@ Dwarkadas J. Sanghvi College of Engineering · 2026 · **8.32/10**
 - Event-driven architectures
 - Context engineering & memory
 - Real-time AI systems
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarshXAI&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats">
-
-<img src="https://streak-stats.demolab.com?user=HarshXAI&theme=transparent&hide_border=true" height="165" alt="GitHub Streak">
-
-</div>
 
 ---
 
